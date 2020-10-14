@@ -3,7 +3,7 @@
 *“There are far, far better things ahead than any we leave behind.”
 ― C.S. Lewis* 
 
-![Maureen Oldyck Photo](Professional_Photo.jpeg "Maureen Oldyck" =200x200)
+![Maureen Oldyck Photo](Professional_Photo.jpeg "Maureen Oldyck")
 
 ## Me, in one sentence
 
@@ -39,5 +39,6 @@ When I was just a little girl, my parents decided that it was a smart idea to go
 
 ### TL;DR
 I fell in a ditch, hurray. # markdown-challenge
+# markdown-challenge
 # markdown-challenge
 # markdown-challenge
