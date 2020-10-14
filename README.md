@@ -38,7 +38,4 @@ An introverted gemini, with a passion for learning new things, trying to beat th
 When I was just a little girl, my parents decided that it was a smart idea to go biking. So I followed along with my little bike and my training wheels. However, because the bike path in my neighbourhood where I live was very bad (it sloped to the right), I basically tipped over into the ditch full of stinging nettels. My whole body was itchy for a week and it took me a long time before I was able to trust the bike path again. Even until this day I have scars from the nettels and a fear of falling.
 
 ### TL;DR
-I fell in a ditch, hurray. # markdown-challenge
-# markdown-challenge
-# markdown-challenge
-# markdown-challenge
+I fell in a ditch, hurray. 
